@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 -               Octopi have 3 hearts and donut shaped brain  
 
 in this repo are my python projects feel free to browse 
+
+i have attched Jupyter notebook and text editor versions of each of my uploads
